@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Currency Converter by Camera</string>
+
+    <string-array name="currencylists">
+        <item>THB</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>MYR</item>
+        <item>PHP</item>
+        <item>IDR</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>MMK</item>
+        <item>KRW</item>
+        <item>KHR</item>
+        <item>LAK</item>
+        <item>VND</item>
+        <item>GBP</item>
+
+
+
+
+
+
+
+
+    </string-array>
+</resources>
